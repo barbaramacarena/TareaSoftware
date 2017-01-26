@@ -1,4 +1,4 @@
-from calculo import Tarifa,calcularServicio,esFinDeSemana
+from tarea2 import Tarifa,calcularServicio,esFinDeSemana
 import unittest
 import datetime
 import time
